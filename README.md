@@ -15,7 +15,7 @@
 * Linux(Fedora/Ubuntu)
 * Docker
 
-### СВязаться со мной
+### Связаться со мной
 
 [Vk](https://vk.com/cheremnovvladislav)
 [Telegram](https://t.me/Vladislav_Cheremnov)
