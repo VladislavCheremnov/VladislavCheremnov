@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Всем привет! Меня зовут Влад, и я начинающий алкоголик. Тоесть я хотел сказать программист ;)</h1>
 
-<!--
-**VladislavCheremnov/VladislavCheremnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Учусь на FullStack
+- Учу языки
+- Верстку
+- Гит и всякие Линуксы с Докерами
 
-Here are some ideas to get you started:
+### То с чем работаю
+* Git
+* VScode
+* HTML5/CSS3
+* JavaScript
+* PHP
+* Bitrix
+* Linux(Fedora/Ubuntu)
+* Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### СВязаться со мной
+
+[Vk](https://vk.com/cheremnovvladislav)
+[Telegram](https://t.me/Vladislav_Cheremnov)
